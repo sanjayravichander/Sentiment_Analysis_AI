@@ -1,7 +1,9 @@
-venv
 backend/model/
+backend/old_model/
 *.bin
 *.pt
 *.safetensors
 __pycache__/
 .cache/
+logs/
+venv/
