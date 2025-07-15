@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+pydantic
+transformers==4.36.2
+torch==2.2.0
+accelerate==0.25.0
+numpy
+pandas
+scikit-learn
+requests
+streamlit
+datasets
+sentence-transformers
