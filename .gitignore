@@ -1,1 +1,7 @@
 venv
+backend/model/
+*.bin
+*.pt
+*.safetensors
+__pycache__/
+.cache/
